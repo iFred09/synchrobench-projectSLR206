@@ -11,6 +11,17 @@ performance gain on multi-(/many-)core machines.
 If you use Synchrobench, please cite the companion paper: 
 V. Gramoli. More than You Ever Wanted to Know about Synchronization. PPoPP 2015. More information at https://sites.google.com/site/synchrobench/.
 
+Project
+---------------
+This fork is for presenting source code and benchmark results for the SLR206a project (Telecom Paris course)
+Modifications:
+- Benchmark results are in the `results_script` folder
+- Source code for the HandOverHand algorithm is in src/linkedlists/custom
+
+Tests are made on `lame23.enst.fr` (Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz, 72-core processor, 2 threads per cores)
+
+Authors: Adrien FERRAND LAFFANOUR, Kevin GARNIER, Frédéric SRICHANWIT.
+
 Data structures
 ---------------
 Note that the proposed data structures are not synchronized with each individual
