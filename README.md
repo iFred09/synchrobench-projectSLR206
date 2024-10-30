@@ -14,7 +14,7 @@ V. Gramoli. More than You Ever Wanted to Know about Synchronization. PPoPP 2015.
 Project
 ---------------
 This fork is for presenting source code and benchmark results for the SLR206a project (Telecom Paris course)
-Modifications:
+Modifications (all the modifications are in the java folder):
 - Benchmark results are in the `results_script` folder
 - Source code for the HandOverHand algorithm is in src/linkedlists/custom
 
